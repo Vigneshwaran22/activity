@@ -1,0 +1,13 @@
+name,type,schedule_type,day_of_month,day_of_week,month1,month2,month3,month4,start_hour,end_hour,start_date,end_date,status,expected_results,actual_results
+Daily,Ad hoc,Daily,1,0,1,1,1,1,10:00:07,23:00:07,23/01/2015,23/01/2015,Not Started,,
+Daily,Ad hoc,Daily,25,0,1,1,1,1,23:00:07,23:00:07,23/01/2015,23/01/2015,Not Started,,
+Weekly,Ad hoc,Weekly,1,1,1,1,1,1,10:00:07,23:00:07,23/01/2015,23/01/2015,Not Started,,
+Weekly,Ad hoc,Weekly,25,7,1,1,1,1,23:00:07,23:00:07,23/01/2015,23/01/2015,Not Started,,
+Monthly,Ad hoc,Monthly,1,0,1,1,1,1,10:00:07,23:00:07,23/01/2015,23/01/2015,Not Started,,
+Monthly,Ad hoc,Monthly,25,0,1,1,1,1,23:00:07,23:00:07,23/01/2015,23/01/2015,Not Started,,
+Quarterly,Ad hoc,Quarterly,1,0,1,4,7,10,10:00:07,23:00:07,23/01/2015,23/01/2015,Not Started,,
+Quarterly,Ad hoc,Quarterly,25,0,3,6,9,12,23:00:07,23:00:07,23/01/2015,23/01/2015,Not Started,,
+Half yearly,Ad hoc,Half yearly,1,0,1,7,1,1,10:00:07,23:00:07,23/01/2015,23/01/2015,Not Started,,
+Half yearly,Ad hoc,Half yearly,25,0,6,12,1,1,23:00:07,23:00:07,23/01/2015,23/01/2015,Not Started,,
+Annually,Ad hoc,Annually,1,0,1,1,1,1,10:00:07,23:00:07,23/01/2015,23/01/2015,Not Started,,
+Annually,Ad hoc,Annually,25,0,10,1,1,1,23:00:07,23:00:07,23/01/2015,23/01/2015,Not Started,,

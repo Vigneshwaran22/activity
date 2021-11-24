@@ -1,0 +1,2 @@
+name,type,schedule_type,day_of_month,day_of_week,fortnite,month,month2,month3,month4,start_hour,end_hour,start_date,end_date,status,expected_results,actual_results
+Rent Reminder,Ad hoc,Monthly,31,0,0,0,0,0,0,10:00:07,23:00:07,2020-04-25,23,23/01/2021,Not Started,01/05/2020 10:00

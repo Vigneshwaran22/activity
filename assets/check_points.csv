@@ -1,0 +1,30 @@
+check_list_name,check_points_name,type
+Chiller - Unit Inspection ,Analyze unit performance and efficiency while operating. ,check
+Chiller - Unit Inspection ,Check refrigerant levels and test for leaks. ,check
+Chiller - Unit Inspection ,"Check condition of belt and sheaves, if applicable. ",check
+Chiller - Unit Inspection ,"Check coupling for tightness, if applicable. ",check
+Chiller - Unit Inspection ,"Change oil filter, if applicable. Inspect filter for metallic particles. ",check
+Chiller - Unit Inspection ,"Change dehydrators, as required. ",check
+Lube Oil Accumulator Test,Is the turbines and lube oil pumps running Properly,check
+Lube Oil Accumulator Test,"If Not Running Properly, Check the pressure on the gas side of the lube oil accumulator. ",check
+Lube Oil Accumulator Test,"If Not Running Properly, Verify that the pressure charge is maintained in the system.",check
+Lube Oil Accumulator Test,Do Functionally test the operation of the lube oil accumulator system: ,check
+Lube Oil Accumulator Test,"If in doubt, Start the lube oil pump. ",check
+Lube Oil Accumulator Test,"If in doubt, Shut the pump down, and verify that the pressure decay of the lube oil accumulator is gradual",check
+Lube Oil Accumulator Test,"If not working, Repair as needed",check
+Drain Valve Inspection,Verify that there is no build-up of water in the bottom of the vessel by opening the drain valve.,check
+Drain Valve Inspection,Drain any water present.,check
+Drain Valve Inspection,Make sure the valve is shut after draining is complete.,check
+Drain Valve Inspection,Confirm the pump discharge lines to the prime pot are purged with purge flow rates  set @ 2-4 SCFH (per guide F-360) to avoid moisture migration into the pump discharge and prime pot.,check
+Drain Valve Inspection,Verify some type of sensor is installed to detect high level (90% typically) in the prime pot.,check
+Drain Valve Inspection,Visually inspect the prime pot for cracks from excessive icing ,check
+Electric  Inspection,Visually inspect for abnormalities,check
+Electric  Inspection,Verify that the motor is adequately grounded and that all ground connections are secure and free of corrosion,check
+Oil Change- Machinery  with < 60 lts SUMP,Contact reliability center to determine whether an oil sample needs to be sent out for analysis.,check
+Oil Change- Machinery  with < 60 lts SUMP,Remove existing oil.,check
+Oil Change- Machinery  with < 60 lts SUMP,"Clean the oil sump, change filters where applicable, and clean sight glasses.",check
+Oil Change- Machinery  with < 60 lts SUMP,Refill with new oil. ,check
+"General Service Coupling Inspection For Elastomeric, Grid, Spider, etc.","Visually inspect the coupling for wear, fretting, cracks, etc. ",check
+"General Service Coupling Inspection For Elastomeric, Grid, Spider, etc.",Repair/replace as needed. ,check
+"Motors, Form Wound Induction ","Refer to SMP-131, Preventative Maintenance For Electric Motors 2300V and Above",check
+"Motors, Form Wound Induction ",Perform all applicable steps identified in the appropriate major maintenance forms in SMP-131.,check

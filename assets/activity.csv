@@ -1,0 +1,8 @@
+plan_template,activity_name,check_list
+Chiller Unit Inspection Preventive Daily,Unit Inspection,Chiller - Unit Inspection 
+Lube Oil Preventive Interval Every 1 Year,Lube Oil,Lube Oil Accumulator Test
+Prime Pot Drain Valve Inspection - Every 6 Months,Prime Pot Drains Inspetion,Drain Valve Inspection
+Motors Preventive Inspection - Daily,Pump & Motors Inspection,Electric  Inspection
+Oil Change Preventive Action - Every 6 Months,Oil change Less Than  60 lts,Oil Change- Machinery  with < 60 lts SUMP
+Coupling Inspection Preventive - Daily ,Coupling Inspection ,"General Service Coupling Inspection For Elastomeric, Grid, Spider, etc."
+"Motors, Form Wound Induction - Major Maintenance - Every 3 to 5 Years","Motors, Form Wound Induction ","Motors, Form Wound Induction "
